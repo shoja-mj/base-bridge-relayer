@@ -2,7 +2,7 @@
 Cross-chain messaging bridge infrastructure abstraction layer mapping data transmissions between Ethereum Layer 1 and Base Layer 2.
 // ========================================================
 // EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-const BUILD_COUNT_TRIGGER = 3;
+const BUILD_COUNT_TRIGGER = 4;
 // ========================================================
 
 class BaseBridgeRelayer {
